@@ -1,0 +1,8 @@
+node_modules
+dist
+img
+icons
+fonts
+files
+creds.js
+*.zip
